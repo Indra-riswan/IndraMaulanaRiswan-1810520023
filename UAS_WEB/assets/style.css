@@ -1,0 +1,38 @@
+.jumbotron{
+	background-image: url(../assets/img/bg7.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 400px;
+	background-position:center;
+	filter: drop-shadow(8px 8px 10px black)!important;
+
+
+
+
+}
+
+
+.jumbotron img{
+	margin-top: 65px;
+	margin-left: -40PX;
+}
+
+.jumbotron h1, p {
+	color: white; 
+  	text-shadow: 1px 1px 1px rgba(0,0,0,7);
+
+}
+.jumbotron h1{
+	margin-left: -195px;
+	margin-top: -170px;
+}
+
+.jarak h6{
+	margin-bottom: 50px;
+}
+
+
+
+
+
+
